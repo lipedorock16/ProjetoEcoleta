@@ -16,10 +16,9 @@ O <strong>Ecoleta</strong> é um marketplace de coleta de resíduos.
 
 Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
 
-## 🖼 Screenshot
+## 🖼 Projeto 
 
-<img src="https://i.imgur.com/sqxLEbx.jpg">
-
+![Projeto Ecoleta](projetoecoleta.gif)
 ## 🔗 Links do projeto
 
 ### Notion
